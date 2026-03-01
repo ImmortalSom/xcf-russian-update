@@ -1,0 +1,8 @@
+name: "X-Com Files: Работа над ошибками"
+version: "0.1"
+requiredExtendedVersion: "8.5"
+description: "Просто довожу до ума."
+author: "PanSom"
+isMaster: false
+master: "x-com-files"
+id: "xcf-russian-update"
