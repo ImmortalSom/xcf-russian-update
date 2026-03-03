@@ -42,33 +42,13 @@ ru:
   STR_HAVOC_AMMO_UFOPEDIA: "{ALT}Боеприпасы Havoc были разработаны EXALT специально для борьбы с бронированными противниками. В умелых руках они дают повышенную огневую мощь. Однако эти патроны капризны и склонны к непредсказуемому поведению при неаккуратном обращении. Поэтому только спецподразделения EXALT считаются достаточно подготовленными для их эффективного применения.{NEWLINE}Такие боеприпасы могут оказаться полезны X-Com - но лишь при условии, что в наших рядах есть стрелки, способные в полной мере использовать их преимущества.{NEWLINE}{NEWLINE}Боеприпасы Havoc дают бонус к мощности выстрела, равный 25% от точности стрельбы. При этом они значительно снижают эффективную точность оружия.{ALT}"
   STR_CUSTOMIZED_DIMENSIONAL_BATTERIES: "[XD] Трансразмерные батареи"
   STR_CUSTOMIZED_DIMENSIONAL_BATTERIES_UFOPEDIA: "[XD] Экстрадименсиональные батареи - доступная, хотя и несовершенная альтернатива инопланетным источникам питания для ручного оружия. Поскольку мы освоили эту технологию, нашим инженерам не составляет труда создавать энергоблоки для известных образцов оружия без использования инопланетных материалов. Требуется лишь доступ к трансразмерной энергосети. Недостаток в том, что такие блоки слабее и имеют меньшую ёмкость по сравнению с оригинальными. Тем не менее они остаются привлекательной альтернативой обычному стрелковому оружию."
-  STR_RPG_BUY: Покупка РПГ
-  STR_RPG: РПГ
-  STR_RPG_CRAFT_WEAPON_UC: РПГ
-  STR_RPG_ROCKET: б-п РПГ
-  STR_RPG_AT_ROCKET: б-п РПГ [кумулятив]
-  STR_RPG_UFOPEDIA: "РПГ - это классическая ручная пусковая ракетная установка. В зависимости от типа используемых боеприпасов он может наносить большой урон как живой силе, так и бронетехнике.{NEWLINE}Чтобы купить это оружие, требуется: {ALT}Повышение III{ALT}, {ALT}Лицензия на взрыв. вещества{ALT}."
-  STR_MILKOR_MGL: Milkor MGL
-  STR_MILKOR_MGL_CONT: Milkor MGL (продолжение)
-  STR_MILKOR_MGL_BUY: Покупка Milkor MGL
-  STR_MILKOR_MGL_CLIP: бар. Milkor MGL [фугас]
-  STR_MILKOR_MGL_CLIP_BEAN: бар. Milkor MGL [оглуш.]
-  STR_MILKOR_MGL_CLIP_INC: бар. Milkor MGL [напалм]
-  STR_MILKOR_MGL_CLIP_SMOKE: бар. Milkor MGL [дым]
-  STR_MILKOR_MGL_CLIP_FLASHBANG: бар. Milkor MGL [светошум]
-  STR_MILKOR_MGL_CLIP_ELERIUM: бар. Milkor MGL [E-115]
-  STR_BREAKDOWN_STR_MILKOR_MGL_CLIP_ELERIUM: "РЗБ: бар. Milkor MGL [E-115]"
-  STR_MILKOR_MGL_UFOPEDIA: Шестизарядный гранатомет револьверного типа, производимый в ЮАР. Модифицирован таким образом, чтобы стрельбу из него можно было вести одной рукой.{NEWLINE}{NEWLINE}Стреляет стандартными 40х46-мм гранатами.
-  STR_GRENADE_LAUNCHER_BUY: Покупка Гранатомета
-  STR_GRENADE_LAUNCHER: Гранатомет
-  STR_GRENADE_LAUNCHER_CONT: Гранатомет (Продолжение)
-  STR_LAUNCHER_FRAG: 46-мм граната [фугас]
-  STR_LAUNCHER_BEAN: 46-мм граната [оглуш.]
-  STR_LAUNCHER_INC: 46-мм граната [напалм]
-  STR_LAUNCHER_SMOKE: 46-мм граната [дым]
-  STR_LAUNCHER_FLASHBANG: 46-мм граната [светошум.]
-  STR_LAUNCHER_ELERIUM: 46-мм граната [E-115]
-  STR_GRENADE_LAUNCHER_UFOPEDIA: Гранатомёт использует различные типы боеприпасов и эффективен в самых разных ситуациях.{NEWLINE}Из-за меньшего размера по сравнению с ручной гранатой его эффективность на 10% ниже.
+  STR_ASSAULT_CANNON: Штурмовая пушка BlackOps
+  STR_ASSAULT_CANNON_CLIP_AP: маг. Штурмовой пушки BlackOps
+  STR_ASSAULT_CANNON_CLIP_AA: маг. Штурмовой пушки BlackOps [Tr]
+  STR_ASSAULT_CANNON_CLIP_AA_XXX: маг. Штурмовой пушки BlackOps [Tr] (x3)
+  STR_ASSAULT_CANNON_CLIP_AA_MANUFACTURING: Производство маг. Штурмовой пушки BlackOps [Tr]
+  STR_ASSAULT_CANNON_UFOPEDIA: "Это тяжелое оружие, разработанное BlackOps, выстреливает снаряды в режиме одиночного огня или очередями по четыре выстрела. Оптимально на средних дистанциях.{NEWLINE}Штурмовая пушка - это специальное предложение BlackOps для особых клиентов. Мы теперь в их числе.{NEWLINE}Чтобы купить это оружие, требуется: {ALT}Повышение III{ALT}, {ALT}Контакт с BlackOps Industries{ALT}."
+  STR_ASSAULT_CANNON_BUY: Покупка Штурмовой пушки BlackOps
   STR_FLAMETHROWER_CLIP: бак Огнемёта
   STR_AGRICULTURAL_FLAMER_BUY: Покупка Сельхоз-огнемета
   STR_AGRICULTURAL_FLAMER: Сельхоз-огнемет
@@ -153,13 +133,113 @@ ru:
   STR_BLACKOPS_AUTO_SNIPER_RIFLE_CLIP: маг. Автоснайперки BlackOps
   STR_BLACKOPS_AUTO_SNIPER_RIFLE_AA_CLIP: маг. Автоснайперки BlackOps [Tr]
   STR_BLACKOPS_AUTO_SNIPER_RIFLE_AA_CLIP_MANUFACTURING: Производство маг. Автоснайперки BlackOps [Tr]
-  STR_ASSAULT_CANNON: Штурмовая пушка BlackOps
-  STR_ASSAULT_CANNON_CLIP_AP: маг. Штурмовой пушки BlackOps
-  STR_ASSAULT_CANNON_CLIP_AA: маг. Штурмовой пушки BlackOps [Tr]
-  STR_ASSAULT_CANNON_CLIP_AA_XXX: маг. Штурмовой пушки BlackOps [Tr] (x3)
-  STR_ASSAULT_CANNON_CLIP_AA_MANUFACTURING: Производство маг. Штурмовой пушки BlackOps [Tr]
-  STR_ASSAULT_CANNON_UFOPEDIA: "Это тяжелое оружие, разработанное BlackOps, выстреливает снаряды в режиме одиночного огня или очередями по четыре выстрела. Оптимально на средних дистанциях.{NEWLINE}Штурмовая пушка - это специальное предложение BlackOps для особых клиентов. Мы теперь в их числе.{NEWLINE}Чтобы купить это оружие, требуется: {ALT}Повышение III{ALT}, {ALT}Контакт с BlackOps Industries{ALT}."
-  STR_ASSAULT_CANNON_BUY: Покупка Штурмовой пушки BlackOps
+  STR_TACTICAL_GRENADE_LAUNCHER: Тактический гранатомёт [T]
+  STR_TACTICAL_GRENADE_LAUNCHER_CONT: Тактический гранатомёт (продолжение)
+  STR_TACTICAL_GRENADE_LAUNCHER_UFOPEDIA: "Это тяжёлое оружие производства M.A.G.M.A. ведёт огонь крупными гранатами с высокой скорострельностью.{NEWLINE}{NEWLINE}>Для приобретения этого оружия требуется: {ALT}Повышение III{ALT} и {ALT}Лицензия на взрывчатку{ALT}."
+  STR_TACTICAL_GRENADE_LAUNCHER_CRAFT_WEAPON_UC: Тактический гранатомёт
+  STR_TACTICAL_GRENADE_LAUNCHER_BUY: Приобретение Тактического гранатомёта
+  STR_TACTICAL_GRENADE_LAUNCHER_FRAG: граната Тактического гранатомёта [фугас]
+  STR_TACTICAL_GRENADE_LAUNCHER_BEAN: граната Тактического гранатомёта [оглуш.]
+  STR_TACTICAL_GRENADE_LAUNCHER_SMOKE: граната Тактического гранатомёта [дым]
+  STR_TACTICAL_GRENADE_LAUNCHER_INCENDIARY: граната Тактического гранатомёта [напалм]
+  STR_TACTICAL_GRENADE_LAUNCHER_GAS: граната Тактического гранатомёта [газ]
+  STR_TACTICAL_GRENADE_LAUNCHER_ELERIUM: граната Тактического гранатомёта [E-115]
+  STR_SMALL_LAUNCHER: Малая пусковая установка
+  STR_SMALL_LAUNCHER_UFOPEDIA: Малая пусковая установка для различных типов бомб. Компактна, точна и особенно полезна для захвата живых инопланетян с помощью оглушающих боеприпасов.
+  STR_SMALL_LAUNCHER_DISASSEMBLY: "РЗБ: Малой пусковой установки"
+  STR_STUN_BOMB: мини-бомба Оглушающая
+  STR_STUN_BOMB_UFOPEDIA: Оглушающая мини-бомба предназначена для захвата живых образцов, но также эффективна против большинства инопланетных рас. Выстреливается из Малой пусковой установки.{NEWLINE}Можно разобрать её для извлечения некоторого количества элерия.
+  STR_BREAKDOWN_STR_STUN_BOMB: "РЗБ: мини-бомбы Оглушающей"
+  STR_EMP_BOMB: мини-бомба EMP
+  STR_EMP_BOMB_UFOPEDIA: Этот специализированный боеприпас для Малой пусковой установки генерирует мощную электромагнитную волну, особенно разрушительную для электроники.
+  STR_BREAKDOWN_STR_EMP_BOMB: "РЗБ: мини-бомбы EMP"
+  STR_ELERIUM_BOMB: мини-бомба Элериевая
+  STR_ELERIUM_BOMB_UFOPEDIA: Элериевая мини-бомба, используемая преимущественно инопланетными террористами, представляет собой мощную и смертоносную аммуницию для Малой пусковой установки.
+  STR_BREAKDOWN_STR_ELERIUM_BOMB: "РЗБ: мини-бомбы Элериевой"
+  STR_RPG: РПГ [T]
+  STR_RPG_UFOPEDIA: "РПГ — классический гранатомёт. В зависимости от типа боеприпаса, он представляет серьёзную угрозу как для живой силы, так и для бронетехники.{NEWLINE}{NEWLINE}>Для приобретения этого оружия требуется: {ALT}Повышение III{ALT} и {ALT}Лицензия на взрывчатку{ALT}."
+  STR_RPG_CRAFT_WEAPON_UC: РПГ
+  STR_RPG_BUY: Приобретение РПГ
+  STR_RPG_ROCKET: снаряд РПГ [фугас]
+  STR_RPG_AT_ROCKET: снаряд РПГ [кумулятив]
+  STR_ROCKET_LAUNCHER: Пусковая установка [T]
+  STR_ROCKET_LAUNCHER_UFOPEDIA: Пусковая установка — это система с лазерным наведением, способная запускать широкий спектр ракет.
+  STR_ROCKET_LAUNCHER_CRAFT_WEAPON_UC: Пусковая установка
+  STR_ROCKET_LAUNCHER_BUY: Приобретение Пусковой установки
+  STR_ROCKET_LAUNCHER_CONT: Пусковая установка (продолжение)
+  STR_SHRAPNEL_ROCKET: ракета Осколочная
+  STR_TRITANIUM_SHRAPNEL_ROCKET: ракета Осколочная [Tr]
+  STR_SMALL_ROCKET: ракета Малая
+  STR_LARGE_ROCKET: ракета Большая
+  STR_INCENDIARY_ROCKET: ракета Зажигательная
+  STR_ELERIUM_ROCKET: ракета Элериевая
+  STR_MIND_GUIDED_MISSILE: ракета Пси-наводимая
+  STR_RECOILLESS_GUN: Безоткатное орудие [T]
+  STR_RECOILLESS_GUN_UFOPEDIA: Это тяжёлое оружие было создано для пробития брони транспортных средств. Хотя оно и заметно устарело, изобретательности его создателей всё ещё нужно отдать должное с учетом его огромной огневой мощи и того факта, что оно представляет собой огнестрельное оружие.
+  STR_RECOILLESS_GUN_CRAFT_WEAPON_UC: Безоткатное орудие
+  STR_RECOILLESS_GUN_BUY: Приобретение Безоткатного орудия
+  STR_RECOILLESS_GUN_SHELL: снаряд Безоткатного орудия
+  STR_RECOILLESS_GUN_TRITANIUM_SHELL: снаряд Безоткатного орудия [Tr]
+  STR_RECOILLESS_GUN_TRITANIUM_SHELL_MANUFACTURING: Производство снаряда Безоткатного орудия [Tr]
+  STR_MULTI_LAUNCHER: Многоствольная ПУ
+  STR_MULTI_LAUNCHER_UFOPEDIA: Это оружие выпускает лёгкие ракеты с высокой скорострельностью.
+  STR_ROCKET_PACK: снаряды Многоствольной ПУ
+  STR_MORTAR: Миномёт
+  STR_MORTAR_UFOPEDIA: Миномёт — оружие, предназначенное для стрельбы по навесной траектории. Неточен на ближней дистанции. Стрельба из миномёта занимает много времени и требует положения с колена, но его снаряды очень мощные.
+  STR_MORTAR_CONT: Миномёт (продолжение)
+  STR_MORTAR_BUY: Приобретение Миномёта
+  STR_MORTAR_SHELL_HE: снаряд Миномёта [фугас]
+  STR_MORTAR_SHELL_I: снаряд Миномёта [напалм]
+  STR_MORTAR_SHELL_SMOKE: снаряд Миномёта [дым]
+  STR_MORTAR_SHELL_EMP: снаряд Миномёта [EMP]
+  STR_MORTAR_SHELL_ELERIUM: снаряд Миномёта [E-115]
+  STR_MORTAR_SHELL_GAS: снаряд Миномёта [газ]
+  STR_MORTAR_SHELL_GAS_BUY: Приобретение снаряда Миномёта [газ]
+  STR_MILKOR_MGL: РГМ Milkor
+  STR_MILKOR_MGL_UFOPEDIA: Южноафриканский шестизарядный гранатомёт барабанного типа Milkor, модифицированный для использования одной рукой.{NEWLINE}{NEWLINE}Стреляет стандартными гранатами 40x46mm.
+  STR_MILKOR_MGL_CONT: РГМ Milkor (продолжение)
+  STR_MILKOR_MGL_BUY: Приобретение РГМ Milkor
+  STR_MILKOR_MGL_CLIP: обой. РГМ Milkor [фугас]
+  STR_MILKOR_MGL_CLIP_BEAN: обой. РГМ Milkor [оглуш.]
+  STR_MILKOR_MGL_CLIP_INC: обой. РГМ Milkor [напалм]
+  STR_MILKOR_MGL_CLIP_SMOKE: обой. РГМ Milkor [дым]
+  STR_MILKOR_MGL_CLIP_FLASHBANG: обой. РГМ Milkor [светошум.]
+  STR_MILKOR_MGL_CLIP_ELERIUM: обой. РГМ Milkor [E-115]
+  STR_BREAKDOWN_STR_MILKOR_MGL_CLIP_ELERIUM: "РЗБ: обой. РГМ Milkor [E-115]"
+  STR_HADRIEX_GUN: Hadriex Gun
+  STR_HADRIEX_GUN_UFOPEDIA: "Этот техно-парапсихологический артефакт распыляет эктоплазменный газ, производящий эффект, схожий с атакой призрака: слабость, галлюцинации, потеря сознания. Управление устройством частично осуществляется с помощью пси-способностей, которые влияют на точность и мощность огня."
+  STR_HADRIEX_GUN_CHARGE: заряд Hadriex Gun
+  STR_GRENADE_LAUNCHER: Гранатомёт
+  STR_GRENADE_LAUNCHER_CONT: Гранатомёт (продолжение)
+  STR_GRENADE_LAUNCHER_UFOPEDIA: Гранатомёт использует различные типы боеприпасов, что обеспечивает его эффективность в широком спектре ситуаций.{NEWLINE}Из-за меньшего размера по сравнению с ручной гранатой эффективность боеприпасов на 10% ниже.
+  STR_GRENADE_LAUNCHER_BUY: Приобретение Гранатомёта
+  STR_LAUNCHER_FRAG: 46-мм граната [фугас]
+  STR_LAUNCHER_BEAN: 46-мм граната [оглуш.]
+  STR_LAUNCHER_INC: 46-мм граната [напалм]
+  STR_LAUNCHER_SMOKE: 46-мм граната [дым]
+  STR_LAUNCHER_FLASHBANG: 46-мм граната [светошум.]
+  STR_LAUNCHER_ELERIUM: 46-мм граната [E-115]
+  STR_BLASTER_MULTI_LAUNCHER: Мульти-бластерная ПУ
+  STR_BLASTER_MULTI_LAUNCHER_UFOPEDIA: Это оружие, по-видимому, является миниатюрной версией грозной Бластерной пусковой установки. Принципы работы схожи, но используются куда более совершенные псионические схемы. Эти пси-схемы позволяют запускать несколько ракет практически в быстрой последовательности. Вместо одной большой камеры для "Blaster Bomb" здесь предусмотрено гнездо для обоймы.
+  STR_BLASTER_MULTI_LAUNCHER_DISASSEMBLY: "РЗБ: Мульти-бластерной ПУ"
+  STR_BLASTER_MULTI_BOMB: обой. Blaster Multi-Bomb
+  STR_BLASTER_MULTI_BOMB_UFOPEDIA: Эта обойма содержит восемь мощных мини-ракет для Мульти-бластерной пусковой установки. Хотя они не столь мощны, как "Blaster Bomb", эти ракеты всё равно обладают сокрушительным действием и могут запускаться с высокой скоростью.
+  STR_BLASTER_LAUNCHER: Бластерная пуск. установка
+  STR_BLASTER_LAUNCHER_UFOPEDIA: Это инопланетная пусковая установка управляемых ракет, стреляющая мощными снарядами "Blaster Bomb". При нажатии на кнопку огня оружие создаёт {ALT}путевые точки{ALT}, по которым будет следовать ракета. Когда вы разместите достаточное количество точек, нажмите на специальную иконку запуска.
+  STR_BLASTER_LAUNCHER_DISASSEMBLY: "РЗБ: Бластерной пуск. установки"
+  STR_BLASTER_BOMB: снаряд Blaster Bomb
+  STR_BLASTER_BOMB_UFOPEDIA: Это устройство представляет собой ракету с фугасной боевой частью и интеллектуальной системой наведения. Выстреливается из Бластерной пуск. установки.{NEWLINE}Можно разобрать его для извлечения некоторого количества элерия.
+  STR_BREAKDOWN_STR_BLASTER_BOMB: "РЗБ: снаряда Blaster Bomb"
+  STR_AUTO_MORTAR: Авто-миномёт
+  STR_AUTO_MORTAR_UFOPEDIA: Роботизированный миномёт быстрее перезаряжается и оснащён системами наведения, которые снижают штраф за стрельбу по невидимой цели.
+  STR_AUTO_MORTAR_CONT: Авто-миномёт (продолжение)
+  STR_ADVANCED_ROCKET_LAUNCHER: Улучш. пусковая установка [T]
+  STR_ADVANCED_ROCKET_LAUNCHER_CONT: Улучш. пусковая установка (продолжение)
+  STR_ADVANCED_ROCKET_LAUNCHER_UFOPEDIA: Благодаря инопланетной электронике, улучшенная пусковая установка имеет меньшее время прицеливания по сравнению с оригинальной конструкцией и способна запускать управляемые ракеты.
+  STR_ADVANCED_ROCKET_LAUNCHER_CRAFT_WEAPON_UC: Улучш. пусковая установка
+  STR_ADVANCED_GRENADE_LAUNCHER: Улучшенный гранатомёт
+  STR_ADVANCED_GRENADE_LAUNCHER_CONT: Улучшенный гранатомёт (продолжение)
+  STR_ADVANCED_GRENADE_LAUNCHER_UFOPEDIA: Это оружие оснащено оптроной системой для повышения точности и скорострельности. Использует стандартные 46-мм гранаты.
   STR_UAC_HEAVY_NAILGUN: Тяжёлый гвоздомёт VAST
   STR_UAC_HEAVY_NAILGUN_UFOPEDIA: Тяжёлый гвоздомёт использует электромагнитную силу для выстрела металлическими гвоздями. Может применяться как оружие; его точность и дальность несколько ограничены, но он очень эффективен против большинства бронежилетов. Питается от сверхпроводящих батарей.
   STR_UAC_HEAVY_NAILGUN_BUY: Приобретение Тяжёлого гвоздомёта VAST
@@ -413,7 +493,7 @@ ru:
   STR_DART_PISTOL_CLIP_STUN: кас. Дарт-пистоля [оглуш.]
   STR_DART_PISTOL_CLIP_ACID: кас. Дарт-пистоля [кисл.]
   STR_DART_PISTOL_CLIP_ELECTRIC: кас. Дарт-пистоля [элект.]
-  STR_DART_PISTOL_CLIP_ANTI_E115: кас. Дарт-пистоля [Anti-E115]
+  STR_DART_PISTOL_CLIP_ANTI_E115: кас. Дарт-пистоля [E-115]
   STR_COLT45: Colt .45
   STR_COLT45_UFOPEDIA: Этот хорошо известный пистолет обладает мощными патронами, но имеет сравнительно низкую скорострельность.
   STR_COLT45_CLIP: маг. Colt .45
@@ -844,7 +924,7 @@ ru:
   STR_DART_RIFLE_CLIP_STUN: кас. Дарт-винтовки [оглуш.]
   STR_DART_RIFLE_CLIP_ACID: кас. Дарт-винтовки [кисл.]
   STR_DART_RIFLE_CLIP_ELECTRIC: кас. Дарт-винтовки [электр.]
-  STR_DART_RIFLE_CLIP_ANTI_E115: кас. Дарт-винтовки [Anti-E115]
+  STR_DART_RIFLE_CLIP_ANTI_E115: кас. Дарт-винтовки [E-115]
   STR_DART_RIFLE_PREQ: Требование для Дарт-винтовки
   STR_DART_MUSKET: Дарт-пушка
   STR_DART_MUSKET_CONT: Дарт-пушка (продолжение)
