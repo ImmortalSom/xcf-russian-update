@@ -133,17 +133,26 @@ ru:
   STR_BLACKOPS_AUTO_SNIPER_RIFLE_CLIP: маг. Автоснайперки BlackOps
   STR_BLACKOPS_AUTO_SNIPER_RIFLE_AA_CLIP: маг. Автоснайперки BlackOps [Tr]
   STR_BLACKOPS_AUTO_SNIPER_RIFLE_AA_CLIP_MANUFACTURING: Производство маг. Автоснайперки BlackOps [Tr]
+  STR_XCOM_ASSAULT_PLASMA: Штурмовая плазмо-пушка X-Com
+  STR_XCOM_ASSAULT_PLASMA_UFOPEDIA: Мы модифицировали стандартный Тяжёлый плазмоган инопланетян, чтобы лучше использовать навыки ветеранов X-Com. Поскольку плазменное оружие по своей природе имеет ограниченную дальность, мы решили отказаться от прицельной стрельбы в пользу более эффективного ближнего боя, особенно в руках элитных агентов с высокой Точностью и Реакцией. Также мы установили подствольный гранатомёт, стреляющий уменьшенными версиями Элериевой бомбы.
+  STR_XCOM_ASSAULT_PLASMA_CLIP: бат. Штурмовой плазмо-пушки
+  STR_XCOM_ASSAULT_PLASMA_GRENADE: гран. Штурмовой плазмо-пушки
+  STR_UAC_ROCKET_LAUNCHER: Пусковая установка VAST [T]
+  STR_UAC_ROCKET_LAUNCHER_UFOPEDIA: Компактная пусковая установка, стреляющая лёгкими ракетными боеприпасами. Оснащается кассетой на 5 выстрелов.
+  STR_UAC_ROCKET_LAUNCHER_CRAFT_WEAPON_UC: Пусковая установка VAST
+  STR_UAC_ROCKET_LAUNCHER_BUY: Приобретение Пусковой установки VAST
+  STR_UAC_ROCKET_LAUNCHER_CLIP: кассета Снарядов ПУ VAST
   STR_TACTICAL_GRENADE_LAUNCHER: Тактический гранатомёт [T]
   STR_TACTICAL_GRENADE_LAUNCHER_CONT: Тактический гранатомёт (продолжение)
   STR_TACTICAL_GRENADE_LAUNCHER_UFOPEDIA: "Это тяжёлое оружие производства M.A.G.M.A. ведёт огонь крупными гранатами с высокой скорострельностью.{NEWLINE}{NEWLINE}>Для приобретения этого оружия требуется: {ALT}Повышение III{ALT} и {ALT}Лицензия на взрывчатку{ALT}."
   STR_TACTICAL_GRENADE_LAUNCHER_CRAFT_WEAPON_UC: Тактический гранатомёт
   STR_TACTICAL_GRENADE_LAUNCHER_BUY: Приобретение Тактического гранатомёта
-  STR_TACTICAL_GRENADE_LAUNCHER_FRAG: граната Тактического гранатомёта [фугас]
-  STR_TACTICAL_GRENADE_LAUNCHER_BEAN: граната Тактического гранатомёта [оглуш.]
-  STR_TACTICAL_GRENADE_LAUNCHER_SMOKE: граната Тактического гранатомёта [дым]
-  STR_TACTICAL_GRENADE_LAUNCHER_INCENDIARY: граната Тактического гранатомёта [напалм]
-  STR_TACTICAL_GRENADE_LAUNCHER_GAS: граната Тактического гранатомёта [газ]
-  STR_TACTICAL_GRENADE_LAUNCHER_ELERIUM: граната Тактического гранатомёта [E-115]
+  STR_TACTICAL_GRENADE_LAUNCHER_FRAG: снаряд Тактического гранатомёта [фугас]
+  STR_TACTICAL_GRENADE_LAUNCHER_BEAN: снаряд Тактического гранатомёта [оглуш.]
+  STR_TACTICAL_GRENADE_LAUNCHER_SMOKE: снаряд Тактического гранатомёта [дым]
+  STR_TACTICAL_GRENADE_LAUNCHER_INCENDIARY: снаряд Тактического гранатомёта [напалм]
+  STR_TACTICAL_GRENADE_LAUNCHER_GAS: снаряд Тактического гранатомёта [газ]
+  STR_TACTICAL_GRENADE_LAUNCHER_ELERIUM: снаряд Тактического гранатомёта [E-115]
   STR_SMALL_LAUNCHER: Малая пусковая установка
   STR_SMALL_LAUNCHER_UFOPEDIA: Малая пусковая установка для различных типов бомб. Компактна, точна и особенно полезна для захвата живых инопланетян с помощью оглушающих боеприпасов.
   STR_SMALL_LAUNCHER_DISASSEMBLY: "РЗБ: Малой пусковой установки"
@@ -735,11 +744,6 @@ ru:
   STR_AUTO_SHOTGUN_SHELLS: бар. Авто-дроб. BlackOps
   STR_AUTO_SHOTGUN_AA_SHELLS: бар. Авто-дроб. BlackOps [Tr]
   STR_AUTO_SHOTGUN_AA_SHELLS_MANUFACTURING: Производство бар. Авто-дробовика BlackOps [Tr]
-  STR_XCOM_ASSAULT_PLASMA: Штурм. плазм-винтовка X-Com
-  STR_XCOM_ASSAULT_PLASMA_UFOPEDIA: Мы модифицировали стандартную Тяжёлую плазмо-пушку пришельцев. Это позволяет эффективнее использовать навыки ветеранов X-Com. Плазменное оружие по своей природе имеет ограниченную дальность. Поэтому мы отказались от прицельной стрельбы в пользу более эффективного ближнего боя. Особенно в руках элитных агентов с высокой точностью стрельбы и реакцией. Также мы установили подствольный гранатомёт. Он стреляет уменьшенными версиями элериевой бомбы.
-  STR_XCOM_ASSAULT_PLASMA_CLIP: бат. Штурм. плазм-винт. X-Com
-  STR_XCOM_ASSAULT_PLASMA_GRENADE: гран. Штурм. плазм-винт. X-Com
-  STR_XCOM_ASSAULT_PLASMA_DISASSEMBLY: "РЗБ: Штурм. плазм-винтовка X-Com"
   STR_WARP_RIFLE: WARP-винтовка
   STR_WARP_RIFLE_UFOPEDIA: Это экзотическое оружие испускает луч, дестабилизирующий атомные взаимодействия. Это приводит к мгновенному разрушению цели. Броня практически бесполезна - WARP-луч легко разрывает её на части.
   STR_WARP_RIFLE_CLIP: бат. WARP-винтовки
@@ -869,12 +873,12 @@ ru:
   STR_HUNTING_RIFLE: Охотничья винтовка
   STR_HUNTING_RIFLE_UFOPEDIA: Этот тип винтовки широко используется по всему миру для охоты на дичь. Хотя пуля уступает по мощности аналогичным военным образцам, оружие хорошо справляется с ролью лёгкой снайперской винтовки.
   STR_HUNTING_RIFLE_BUY: Приобретение Охотничьей винтовки
-  STR_HEAVY_PLASMA: Тяжёлая плазмо-пушка
+  STR_HEAVY_PLASMA: Тяжёлый плазмоган
   STR_HEAVY_PLASMA_UFOPEDIA: Это оружие обладает сокрушительной мощностью. В его основе - ускорение частиц в миниатюрном антигравитационном поле.
-  STR_HEAVY_PLASMA_CLIP: бат. Тяжёлой плазмо-пушки
-  STR_HEAVY_PLASMA_CLIP_UFOPEDIA: Это компактное устройство служит боеприпасом для Тяжёлой плазмы. Содержит небольшое количество элерия.
-  STR_HEAVY_PLASMA_DISASSEMBLY: "РЗБ: Тяжёлая плазмо-пушка"
-  STR_BREAKDOWN_STR_HEAVY_PLASMA_CLIP: "РЗБ: бат. Тяжёлой плазмо-пушки"
+  STR_HEAVY_PLASMA_CLIP: бат. Тяжёлого плазмогана
+  STR_HEAVY_PLASMA_CLIP_UFOPEDIA: Это компактное устройство служит боеприпасом для Тяжёлого плазмогана. Содержит небольшое количество элерия.
+  STR_HEAVY_PLASMA_DISASSEMBLY: "РЗБ: Тяжёлого плазмогана"
+  STR_BREAKDOWN_STR_HEAVY_PLASMA_CLIP: "РЗБ: бат. Тяжёлого плазмогана"
   STR_HARPOON: Подводное ружьё
   STR_HARPOON_UFOPEDIA: Стандартный метатель гарпунов. Полезен для охоты на крупную рыбу. Оружие может метать обычные гарпуны, а также модифицированные - например, взрывные.
   STR_HARPOON_CLIP: гарп. Подводного ружья
